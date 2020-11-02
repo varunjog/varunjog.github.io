@@ -1,0 +1,83 @@
+# jemdoc: menu{MENU.txt}{index.html}
+= Publications
+
+== Preprints
+- [https://arxiv.org/abs/2009.12976 *Robust regression with covariate filtering: Heavy tails and adversarial contamination*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n September 2020
+
+- [https://arxiv.org/abs/2006.09568 *Reverse Euclidean and Gaussian isoperimetric inequalities for parallel sets with applications*] \n Varun Jog \n August 2020
+
+- [https://arxiv.org/abs/1907.03087 *Estimating location parameters in entangled single-sample distributions*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n July 2019
+
+- [https://arxiv.org/abs/1905.04362 *Channels, Learning, Queueing and Remote Estimation Systems With A Utilization-Dependent Component*] \n Varun Jog, Richard J. La,  and Nuno C. Martins \n May 2019
+
+- [https://arxiv.org/abs/1901.06619 *Unifying the Brascamp-Lieb inequality and the Entropy Power inequality*] \n Venkat Anantharam, Varun Jog, and Chandra Nair.  \n January 2019
+
+== Conference publications
+- [https://arxiv.org/pdf/1912.02794.pdf *Adversarial risk via optimal transport and optimal couplings*] \n Muni Sreenivas Pydi and Varun Jog \n ICML 2020
+
+- [https://ieeexplore.ieee.org/document/8849711/ *Unifying the entropy power inequality and the Brascamp-Lieb inequality*] \n Venkat Anantharam, Varun Jog, and Chandra Nair \n ISIT 2019
+
+- [https://ieeexplore.ieee.org/document/8849806/ *Teaching and learning in uncertainty*] \n Varun Jog \n ISIT 2019
+
+- [https://ieeexplore.ieee.org/document/8849828/ *Adversarial influence maximization*] \n Justin Khim, Varun Jog, and Po-Ling Loh \n ISIT 2019
+
+- [https://ieeexplore.ieee.org/document/8849319/ *Dual Loomis-Whitney inequalities via information theory*] \n Jing Hao and Varun Jog \n ISIT 2019
+
+- [https://ieeexplore.ieee.org/document/8849279/ *Mean estimation for entangled single-sample distributions*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n ISIT 2019
+
+- [https://ieeexplore.ieee.org/document/8613445 *Generalization error bounds using the Wasserstein metric*] \n Adrian Tovar Lopez and Varun Jog \n ITW 2018
+
+- [https://arxiv.org/abs/1805.01401 *Convexity of mutual information along the Ornstein-Uhlenbeck flow*] \n Andre Wibisono and Varun Jog \n  ISITA 2018.
+
+- [http://arxiv.org/abs/1802.04475 *Graph-Based Ascent Algorithms for Function Maximization*] \n Muni Pydi Sreenivas, Varun Jog, and Po-Ling Loh \n Allerton Conference, 2018
+
+- [http://arxiv.org/abs/1801.06968 *Convexity of mutual information in the heat flow*] \n Andre Wibisono and Varun Jog \n ISIT 2018
+
+- [https://arxiv.org/abs/1801.04295 *Generalization bounds for noisy, iterative algorithms*] \n Ankit Pensia, Varun Jog, Po-Ling Loh \n ISIT 2018.
+
+- [https://arxiv.org/abs/1801.03868 *An entropy inequality for symmetric random variables*] \n Jing Hao and Varun Jog \n ISIT 2018
+
+- [http://ieeexplore.ieee.org/document/8007114/ *A convolution inequality for entropy over $Z_2$*]  \n Varun Jog \n ISIT 2017
+
+- [https://arxiv.org/abs/1702.03656 *Information and estimation in Fokker-Planck channels*] \n Andre Wibisono, Varun Jog, Po-Ling Loh \n  ISIT 2017
+
+- [https://papers.nips.cc/paper/6347-computing-and-maximizing-influence-in-linear-threshold-and-triggering-models.pdf *Computing and maximizing influence in linear threshold and triggering models*] \n Justin Khim, Varun Jog, Po-Ling Loh \n NIPS 2016
+
+- [http://arxiv.org/pdf/1509.06418.pdf *Information-theoretic bounds for exact recovery in weighted stochastic block models using the Renyi divergence*] \n Varun Jog, Po-Ling Loh \n Allerton Conference, 2015.
+
+- [http://ieeexplore.ieee.org/document/7282571/ *On the geometry of convex typical sets*] \n Varun Jog, Venkat Anantharam \n ISIT 2015 \n *Best student paper award*  
+
+- [http://arxiv.org/abs/1501.02320 *On model misspecification and KL separation for Gaussian graphical models*] \n Varun Jog, Po-Ling Loh \n ISIT 2015
+
+- [http://ieeexplore.ieee.org/document/7282429/ *A geometric analysis of the AWGN channel with a $(\sigma, \rho)$-power constraint*] \n Varun Jog, Venkat Anantharam.  \n ISIT 2015
+
+- [http://ieeexplore.ieee.org/document/6874944/ *An energy harvesting AWGN channel with a finite battery*] \n Varun Jog, Venkat Anantharam \n ISIT 2014
+
+- [http://ieeexplore.ieee.org/document/6814159/ *Convex relative entropy decay in Markov chains*] \n Varun Jog, Venkat Anantharam \n CISS 2014
+
+- [http://ieeexplore.ieee.org/document/6620295/ *The entropy power inequality and Mrs. Gerber's lemma for groups of order $2^n$*] \n  Varun Jog, Venkat Anantharam. \n ISIT 2013
+
+- [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=05454102 *An information inequality for the BSSC channel*] \n  Varun Jog, Chandra Nair \n ITA 2010
+
+== Journal publications
+
+- [https://arxiv.org/abs/1901.07063 *Teaching and learning in uncertainty*] \n Varun Jog and Po-Ling Loh \n IEEE Transactions on Information Theory, 2020
+
+- [https://arxiv.org/abs/1910.06893 *Extracting robust and accurate features via a robust information bottleneck*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n IEEE Journal on Selected Areas in Information Theory, 2020
+
+- [https://www.mdpi.com/1099-4300/21/8/809 *Dual Loomis-Whitney inequalities using information theory*] \n Jing Hao and Varun Jog \n  Entropy, special issue on "Entropy and Information Inequalities", 2019
+
+- [https://projecteuclid.org/euclid.aos/1581930131 *Optimal rates for community estimation in the weighted stochastic block model*] \n Min Xu, Varun Jog, and Po-Ling Loh \n  Annals of Statistics, 2019
+
+- [https://ieeexplore.ieee.org/document/8052540/ *Intrinsic entropies of log-concave distributions*] \n Varun Jog, Venkat Anantharam \n IEEE Transactions on Information Theory, 2017
+
+- [https://onlinelibrary.wiley.com/doi/abs/10.1002/rsa.20726 *Persistence of centrality in random growing trees*] \n Varun Jog, Po-Ling Loh \n  Random Structures and Algorithms, 2017
+
+- [http://ieeexplore.ieee.org/document/7725526 *Analysis of centrality in sublinear preferential attachment trees via the Crump-Mode-Jagers branching process*] \n Varun Jog, Po-Ling Loh \n  IEEE Transactions on Network Science and Engineering, 2016
+
+- [https://ieeexplore.ieee.org/document/7491254 *A geometric analysis of the AWGN channel with a $(\sigma, \rho)$-power constraint*] \n Varun Jog, Venkat Anantharam \n IEEE Transactions on Information Theory, 2016
+
+- [https://ieeexplore.ieee.org/document/6620295/ *The entropy power inequality and Mrs. Gerber's lemma for groups of order $2^n$*] \n Varun Jog, Venkat Anantharam \n IEEE Transactions on Information Theory, 2014
+
+- [https://ieeexplore.ieee.org/document/6502718?section=abstract *An information inequality and  evaluation of Marton's inner bound for binary input broadcast channels*] \n Yanlin Geng, Varun Jog, Chandra Nair, Vincent Zizhou Wang \n IEEE Transactions on Information Theory, 2013
+
