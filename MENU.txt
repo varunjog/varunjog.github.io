@@ -4,4 +4,5 @@ Varun Jog
     Teaching    	[teaching.html]
     Group         	[group.html]
     News			[news.html]
+    Information Theory Seminar	[itseminar.html]	
 
