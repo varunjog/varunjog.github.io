@@ -2,14 +2,17 @@
 = Publications
 
 == Preprints
+
+- [https://arxiv.org/pdf/2206.02765.pdf *Communication-constrained hypothesis testing:
+Optimality, robustness, and reverse data processing inequalities*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n June 2022
+
 - [https://arxiv.org/abs/2009.12976 *Robust regression with covariate filtering: Heavy tails and adversarial contamination*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n September 2020
 
-- [https://arxiv.org/abs/1905.04362 *Channels, Learning, Queueing and Remote Estimation Systems With A Utilization-Dependent Component*] \n Varun Jog, Richard J. La,  and Nuno C. Martins \n May 2019
-
-- [https://arxiv.org/abs/1901.06619 *Unifying the Brascamp-Lieb inequality and the Entropy Power inequality*] \n Venkat Anantharam, Varun Jog, and Chandra Nair.  \n January 2019
-
 == Conference publications
-- *Many faces of adversarial risk* \n Muni Sreenivas Pydi and Varun Jog \n NeuRIPS 2021
+
+- [https://ieeexplore.ieee.org/document/9834363 *Simple Binary Hypothesis Testing under Communication Constraints*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n ISIT 2022
+
+- [https://proceedings.neurips.cc/paper/2021/file/52c4608c2f126708211b9e0a60eaf050-Paper.pdf *Many faces of adversarial risk*] \n Muni Sreenivas Pydi and Varun Jog \n NeuRIPS 2021
 
 - [https://arxiv.org/pdf/1912.02794.pdf *Adversarial risk via optimal transport and optimal couplings*] \n Muni Sreenivas Pydi and Varun Jog \n ICML 2020
 
@@ -59,6 +62,8 @@
 
 == Journal publications
 
+- [https://ieeexplore.ieee.org/document/9834952 *Unifying the Brascamp-Lieb inequality and the Entropy Power inequality*] \n Venkat Anantharam, Varun Jog, and Chandra Nair.  \n IEEE Transactions on Information Theory, July 2022
+
 - [https://ieeexplore.ieee.org/document/9507500 *Reverse Euclidean and Gaussian isoperimetric inequalities for parallel sets with applications*] \n Varun Jog \n IEEE Transactions on Information Theory, August 2021
 
 - [https://ieeexplore.ieee.org/document/9496634 *Adversarial risk via optimal transport and optimal couplings*] \n Muni Sreenivas Pydi and Varun Jog \n IEEE Transactions on Information Theory, July 2021
@@ -84,4 +89,8 @@
 - [https://ieeexplore.ieee.org/document/6620295/ *The entropy power inequality and Mrs. Gerber's lemma for groups of order $2^n$*] \n Varun Jog, Venkat Anantharam \n IEEE Transactions on Information Theory, 2014
 
 - [https://ieeexplore.ieee.org/document/6502718?section=abstract *An information inequality and  evaluation of Marton's inner bound for binary input broadcast channels*] \n Yanlin Geng, Varun Jog, Chandra Nair, Vincent Zizhou Wang \n IEEE Transactions on Information Theory, 2013
+
+== Manuscripts
+
+- [https://arxiv.org/abs/1905.04362 *Channels, Learning, Queueing and Remote Estimation Systems With A Utilization-Dependent Component*] \n Varun Jog, Richard J. La,  and Nuno C. Martins \n May 2019
 
