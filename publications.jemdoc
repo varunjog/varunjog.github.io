@@ -3,14 +3,14 @@
 
 == Preprints
 
-- [https://arxiv.org/abs/2301.03566 *Simple Binary Hypothesis Testing under Local Differential Privacy and Communication Constraints*] \n Ankit Pensia, Amir Asadi, Varun Jog, and Po-Ling Loh \n January 2023
-
 - [https://arxiv.org/pdf/2206.02765.pdf *Communication-constrained hypothesis testing:
 Optimality, robustness, and reverse data processing inequalities*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n June 2022
 
 - [https://arxiv.org/abs/2009.12976 *Robust regression with covariate filtering: Heavy tails and adversarial contamination*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n September 2020
 
 == Conference publications
+
+- - [https://arxiv.org/abs/2301.03566 *Simple Binary Hypothesis Testing under Local Differential Privacy and Communication Constraints*] \n Ankit Pensia, Amir Asadi, Varun Jog, and Po-Ling Loh \n COLT 2023
 
 - [https://ieeexplore.ieee.org/document/9834363 *Simple Binary Hypothesis Testing under Communication Constraints*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n ISIT 2022
 
@@ -63,6 +63,8 @@ Optimality, robustness, and reverse data processing inequalities*] \n Ankit Pens
 - [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=05454102 *An information inequality for the BSSC channel*] \n  Varun Jog, Chandra Nair \n ITA 2010
 
 == Journal publications
+
+- [https://ieeexplore.ieee.org/document/10210607/ *The many faces of adversarial risk: An expanded study*] \n Muni Sreenivas Pydi and Varun Jog \n IEEE Transactions on Information Theory, 2023
 
 - [https://ieeexplore.ieee.org/document/9834952 *Unifying the Brascamp-Lieb inequality and the Entropy Power inequality*] \n Venkat Anantharam, Varun Jog, and Chandra Nair.  \n IEEE Transactions on Information Theory, July 2022
 
