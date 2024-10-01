@@ -5,8 +5,6 @@
 
 - [https://arxiv.org/abs/2403.16981 *The Sample Complexity of Simple Binary Hypothesis Testing*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n March 2024
 
-- [https://arxiv.org/abs/2009.12976 *Robust regression with covariate filtering: Heavy tails and adversarial contamination*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n September 2020
-
 == Conference publications
 
 - [https://arxiv.org/abs/2403.16981 *The Sample Complexity of Simple Binary Hypothesis Testing*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n COLT 2024
@@ -68,8 +66,14 @@
 
 == Journal publications
 
+- [https://iopscience.iop.org/article/10.1088/2057-1976/ad6e87/meta *RobMedNAS: searching robust neural network architectures for medical image synthesis*] \n Jinnain Zhang, Weijie Chen, Tanmayee Joshi, Meltem Uyanik, Xiaomin Zhang, Po-Ling Loh, Varun Jog, Richard Bruce, John Garrett, and Alan McMillan \n Biomedical Physics & Engineering Express, 2024
+
+- [https://arxiv.org/abs/2301.03566 *Simple Binary Hypothesis Testing under Local Differential Privacy and Communication Constraints*] \n Ankit Pensia, Amir Asadi, Varun Jog, and Po-Ling Loh \n IEEE Transactions on Information Theory, 2024
+
+- [https://arxiv.org/abs/2009.12976 *Robust regression with covariate filtering: Heavy tails and adversarial contamination*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n Journal of the American Statistical Association (JASA), 2024 
+
 - [https://arxiv.org/pdf/2206.02765.pdf *Communication-constrained hypothesis testing:
-Optimality, robustness, and reverse data processing inequalities*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n IEEE Transactions on Information Theory, 2024 (To appear)
+Optimality, robustness, and reverse data processing inequalities*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n IEEE Transactions on Information Theory, 2024 
 
 - [https://ieeexplore.ieee.org/document/10210607/ *The many faces of adversarial risk: An expanded study*] \n Muni Sreenivas Pydi and Varun Jog \n IEEE Transactions on Information Theory, 2023
 
