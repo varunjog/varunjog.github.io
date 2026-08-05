@@ -3,6 +3,10 @@
 
 == Preprints
 
+- [https://arxiv.org/abs/2608.02776 *Tight Information Complexity of the Coin Problem in the Broadcast Model*] \n Hadi Kazemi and Varun Jog \n August 2026
+
+- [https://arxiv.org/abs/2605.24741 *On the Sample Complexity of Robust Binary Hypothesis Testing*] \n Shankar Vallinayagam, Ankit Pensia, and Varun Jog \n May 2026
+
 - [https://www.arxiv.org/abs/2506.13686 *The Sample Complexity of Distributed Simple Binary Hypothesis Testing under Information Constraints
 *] \n Hadi Kazemi, Ankit Pensia, and Varun Jog \n June 2025
 
@@ -15,7 +19,7 @@
 
 - [https://arxiv.org/abs/2403.16981 *The Sample Complexity of Simple Binary Hypothesis Testing*] \n Ankit Pensia, Varun Jog, and Po-Ling Loh \n COLT 2024
 
-- *On the Extreme Points of the $(0, \delta)$-Differential Privacy Polytope* \n Karan Elangovan, Varun Jog \n ISIT 2024
+- [https://ieeexplore.ieee.org/document/10619506/ *On the Extreme Points of the $(0, \delta)$-Differential Privacy Polytope*] \n Karan Elangovan, Varun Jog \n ISIT 2024
 
 
 - [https://arxiv.org/abs/2301.03566 *Simple Binary Hypothesis Testing under Local Differential Privacy and Communication Constraints*] \n Ankit Pensia, Amir Asadi, Varun Jog, and Po-Ling Loh \n COLT 2023
